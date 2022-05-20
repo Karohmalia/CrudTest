@@ -1,0 +1,7 @@
+INSERT INTO public.t1_position(
+	id, code, is_delete, name)
+	VALUES (1, 'SA', 0, 'System Analyst'),
+			(2, 'BPS', 0, 'BPS'),
+			(3, 'PRG', 0, 'Programmer'),
+			(4, 'TEST', 0, 'Tester'),
+			(5, 'HELP', 0, 'Helpdesk');

@@ -1,0 +1,8 @@
+INSERT INTO public.t2_employee(
+	id, birth_date, gender, id_number, is_delete, name, position_id)
+	VALUES (1, '1990-02-14', 1, 14021990, 0, 'Yogi Lestari', 5),
+			(2, '1991-05-10', 1, 10051991, 0, 'Anggi Setiawan', 2),
+			(3,	'1993-04-20', 2, 20041993, 0, 'Rosiana', 4),
+			(4, '1994-01-11', 1, 11011994, 0, 'Yudi Ismiaji', 3);
+	
+
